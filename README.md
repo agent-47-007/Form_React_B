@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # beac-form
 # beac-form
 # LUDO_SDL
+# LUDO_SDL
